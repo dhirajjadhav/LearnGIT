@@ -1,2 +1,2 @@
 Added first line.
-Added second line.
+Added line 3.
